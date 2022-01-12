@@ -1,0 +1,12 @@
+h1 {
+ font-family: helvetica, arial, sans-serif;
+}
+
+img {float: left;}
+/* Write your selector for .left below */
+
+<img class="left">
+
+/* Write your selector for .right below */
+
+/* Write your selector for .separator below */
